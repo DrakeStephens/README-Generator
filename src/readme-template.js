@@ -5,12 +5,12 @@ module.exports = templateData => {
     return `
 # ${readMe.projectName}
 ## Table of Contents
-[Description](#Description)
-[Installation](#Installation)
-[Usage](#Usage)
-[Tests](#Tests)
-[Questions](#Questions)
-[Liscense](#Liscense)
+-[Description](#Description)
+-[Installation](#Installation)
+-[Usage](#Usage)
+-[Tests](#Tests)
+-[Questions](#Questions)
+-[Liscense](#Liscense)
 
 ## Description
     ${readMe.description}
@@ -21,7 +21,7 @@ module.exports = templateData => {
 ## Tests
     ${readMe.testing}
 ## Questions
-###If you have any questions you can:
+### If you have any questions you can:
 ### Email me at
     ${readMe.email}
 ### Or find me on my Github 

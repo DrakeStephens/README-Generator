@@ -1,5 +1,5 @@
 
-# fdf
+# README-generator
 ## Table of Contents
 [Description](#Description)
 [Installation](#Installation)
@@ -9,19 +9,21 @@
 [Liscense](#Liscense)
 
 ## Description
-    dfd
+    Use node.js to create a readme.md file.
 ## Installation
-    fd
+    clone the javascript off of the repository and install inquierer using npm inquierer
 ## Usage
-    fdfd
+    start the process by entering node index.js
+    (Watch this video for more instructions)
+    https://youtu.be/f65_R9736uc
 ## Tests
-    dfd
+    n/a
 ## Questions
-###If you have any questions you can:
+### If you have any questions you can:
 ### Email me at
-    df
+    meuio56@gmail.com
 ### Or find me on my Github 
-    https://github.com/fd
+    https://github.com/DrakeStephens
 ## Liscense
-    (C)University of Utah
+    Liscense is pending.
     
